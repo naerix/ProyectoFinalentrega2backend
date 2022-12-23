@@ -1,0 +1,30 @@
+.card-img-top{
+    object-fit: scale-down;
+    height: 200px;
+    width: cover;
+}
+
+#productos{
+    padding-top: 40px;
+
+}
+
+.title{
+    text-align: center;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.card{
+    max-height: 400px;
+}
+
+form{
+    padding: 0 0 5% 0;
+}
+
+div .botonAct{
+    margin: 0px 15px;
+}
